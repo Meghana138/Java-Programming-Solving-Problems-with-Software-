@@ -8,10 +8,9 @@ This is the second course of the Specialization, <a href="https://www.coursera.o
 
 Some code should be run in a custom Bluej Development Environment made by Duke's University especially for this course. You can get the IDE from the University website <a href="http://www.dukelearntoprogram.com/downloads/bluej.php?course=2">here</a>.
 
-<hr>
 
-<h3>Update 15 January 2018:</h3>
- Here's <a href="hhttps://www.coursera.org/account/accomplishments/verify/9LCUR8PFT97L">the link to the Certificate.</a>
+
+
 
 <h3>What I learned in this course:</h3>
 1- Edit, compile, and run a Java program;<br/>
